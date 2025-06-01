@@ -1,28 +1,49 @@
-[![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)](https://Prakash153.io)
 <h1 align="center">Hi 👋, I'm Prakash Singh</h1>
-<h3 align="center">Web development enthusiast and perpetual learner, dedicated to crafting innovative digital experiences</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/91/6e/89/916e8906bbfda5691b0ea68fd42bee42.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prakash153&label=Profile%20views&color=0e75b6&style=flat" alt="prakash153" /> </p>
+<h3 align="center">A passionate Backend Developer from [INDIA/Gurgaon]</h3>
 
-- 🌱 I’m currently learning **ReactJS, MongoDB, ExpressJS, NodeJS**
-
-- 💬 Ask me about **ReactJS, Javascript, Data Structure & Algorithms**
-
-- 📫 How to reach me **prakashkumarsingh483@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prakash15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prakash15" height="30" width="40" /></a>
-<a href="https://instagram.com/_prakash151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_prakash151" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prakash153" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prakash153" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/prakash15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prakash15" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+am+a+Backend+Developer;Spring+Boot+%7C+MySQL+%7C+ReactJS;Open+Source+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prakash153&show_icons=true&locale=en&layout=compact" alt="prakash153" /></p>
+- 🔭 I’m currently working on **an Airbnb-like backend project using Spring Boot & Stripe**
+- 🌱 I’m currently learning **Springboot, Apache Kafka, Micro Services, Docker, Kubernetes**
+- 👨‍💻 All of my projects are available at [my portfolio](https://yourportfolio.com)
+- 💬 Ask me about **Java Core, Spring Boot, REST APIs**
+- 📫 How to reach me: **prakashkumarsingh483@gmail.com**
+- ⚡ Fun fact: *I love debugging more than writing code 😄*
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prakash153&show_icons=true&locale=en" alt="prakash153" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prakash153&" alt="prakash153" /></p>
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,react,js,html,css,git,github,postman" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prakash153&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakash153&layout=compact&theme=tokyonight" alt="top-langs" height="180"/>
+</p>
+
+---
+
+### ✨ Featured Projects
+
+- 💼 [Airbnb Backend Clone](https://github.com/prakash153/airbnb-backend) – Spring Boot, PostgreSQL, Stripe
+- 🧾 [Employee Management API](https://github.com/prakash153/employee-api) – RESTful API using Spring Boot + MySQL
+- 🧑‍💻 [Portfolio Website](https://github.com/prakash153/portfolio-react) – Built with ReactJS
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/prakash15/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="prakashkumarsingh483@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
